@@ -1,0 +1,4 @@
+Weights will appear here when the q-learners are run. They will create files such as the following, for the game pong
+pong.ckpt.data-00000-of-00001
+pong.ckpt.index
+pong.ckpt.meta
